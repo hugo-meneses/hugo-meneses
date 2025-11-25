@@ -5,9 +5,6 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hugo-meneses)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/collection/tracks)
 
-![Hugo Meneses GitHub stats](https://github-readme-stats.vercel.app/api?username=hugo-meneses&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-meneses&size_weight=0.5&count_weight=0.5)](https://github.com/hugo-meneses/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia:
 <div style="display: inline_block"><br/>
